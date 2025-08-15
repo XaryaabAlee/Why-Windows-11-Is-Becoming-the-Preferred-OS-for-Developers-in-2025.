@@ -48,7 +48,7 @@ A properly licensed version of Windows 11 guarantees continuous delivery of secu
 ## LizenzHub: Making Premium OS Access Affordable
 
 Historically, genuine operating system licenses came with a hefty price tag, putting them out of reach for many freelancers, startups, and small development teams. **LizenzHub** is rewriting that narrative by offering affordable Windows 11 digital keys that meet Microsoft’s licensing requirements without compromising authenticity.
-![by Xaryaab Alee]https://github.com/XaryaabAlee/press-release-image./raw/main/000.png
+![by Xaryaab Alee](https://github.com/XaryaabAlee/press-release-image./raw/main/000.png)
 Through its secure online store at **[lizenzhub.de](https://lizenzhub.de/windows/windows-11/)**, the company provides Windows 11 license keys ready for immediate activation. Developers benefit from:
 
 - Competitive pricing compared to traditional retail  
